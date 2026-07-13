@@ -8,11 +8,11 @@
     "dev": "ts-node src/index.ts"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "latest",
-    "@google/generative-ai": "latest"
+    "@modelcontextprotocol/sdk": "^0.1.0",
+    "@google/generative-ai": "^0.21.0"
   },
   "devDependencies": {
-    "typescript": "latest",
-    "ts-node": "latest"
+    "typescript": "^5.5.0",
+    "ts-node": "^10.9.2"
   }
 }
